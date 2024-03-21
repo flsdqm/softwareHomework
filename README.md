@@ -1,7 +1,5 @@
 # 卡比
 
- 
-
 ![星之卡比](https://i1.hdslb.com/bfs/archive/59909386592e90bce14fe6ac64bb365d84d7381c.jpg)
 
 ### 概要

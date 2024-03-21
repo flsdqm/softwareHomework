@@ -42,7 +42,7 @@
 
 by lyz
 
-![6a63f6246b600c338744f53b0806460fd9f9d62a0ba4.png](README.assets/HrdRbNBN.png)
+![6a63f6246b600c338744f53b0806460fd9f9d62a0ba4.png](https://img2.imgtp.com/2024/03/14/HrdRbNBN.png)
 
 ## 角色背景
 
@@ -79,7 +79,7 @@ by lyz
 
 ## 个人介绍
 
-<img src="README.assets/171038101116699db82fa826c805bff724a2bd72e37ace4ce.jpg" alt="171038101116699db82fa826c805bff724a2bd72e37ace4ce" style="zoom: 25%;" align="left" />
+<img src="https://cdn.jsdelivr.net/gh/SUIYUELIANYI/Picture-bed/markdown/171038101116699db82fa826c805bff724a2bd72e37ace4ce.jpg" alt="171038101116699db82fa826c805bff724a2bd72e37ace4ce" style="zoom: 25%;" align="left" />
 
 **方瑜诚**，华中师范大学计算机学院本科生，就读于计算机科学与技术专业。
 
